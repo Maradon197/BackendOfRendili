@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DataTypes.h">
+    <ClInclude Include="DataTypes.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PlayingCard.hpp">
