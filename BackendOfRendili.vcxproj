@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClInclude Include="DataTypes.hpp" />
     <ClInclude Include="PlayingCard.hpp" />
+    <ClInclude Include="Position.hpp" />
+    <ClInclude Include="Unit.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

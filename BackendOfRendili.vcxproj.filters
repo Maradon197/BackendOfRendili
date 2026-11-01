@@ -26,5 +26,11 @@
     <ClInclude Include="PlayingCard.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Unit.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Position.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
